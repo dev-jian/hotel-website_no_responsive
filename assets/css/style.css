@@ -81,7 +81,7 @@ p {
 }
 
 .l-heading {
-  font-size: 40px;
+  font-size: 2.3rem;
 }
 
 /* Form */
@@ -171,7 +171,7 @@ p {
 /* showcase */
 #showcase {
   background: url('../img/showcase.jpg') no-repeat center center/cover;
-  height: 40rem;
+  height: 35rem;
 }
 
 #showcase .showcase-content {
@@ -192,7 +192,7 @@ p {
 
 /* Home Info */
 #home-info {
-  height: 25rem;
+  height: 28rem;
 }
 
 #home-info .info-img {
@@ -230,7 +230,7 @@ p {
   margin-bottom: 0.7rem;
 }
 
-/* About Info*/
+/* About Info */
 #about-info {
   overflow: auto;
   max-height: 30rem;
@@ -257,7 +257,7 @@ p {
 
 /* Testimonials */
 #testimonials {
-  height: 35rem;
+  height: 100%;
   background: url('../img/test-bg.jpg') no-repeat center center/cover;
 }
 

@@ -1,0 +1,92 @@
+#navbar .logo {
+  float: none;
+  text-align: center;
+}
+
+#navbar ul,
+#navbar ul li {
+  float: none;
+}
+
+#navbar ul li a {
+  padding: 0.5rem;
+  border-bottom: 1px #444 dotted;
+}
+
+/* Home info */
+#home-info {
+  height: 34rem;
+}
+
+#home-info .info-img {
+  display: none;
+}
+
+#home-info .info-content {
+  float: none;
+  width: 100%;
+}
+
+/* Showcase */
+#showcase .showcase-content h1 {
+  font-size: 3rem;
+  line-height: 4rem;
+}
+
+#showcase .showcase-content {
+  padding-top: 4.5rem;
+  padding-bottom: 2rem;
+}
+
+/* features */
+#features .box {
+  float: none;
+  width: 100%;
+}
+
+/* About Info */
+#about-info {
+  max-height: 45rem;
+}
+
+#about-info .l-heading {
+  text-align: center;
+}
+
+#about-info p {
+  line-height: 1.6rem;
+}
+
+#about-info .info-left,
+#about-info .info-right {
+  float: none;
+  width: 100%;
+}
+
+#about-info .info-right {
+  margin-top: 2rem;
+}
+
+/* Testimonials */
+#testimonials {
+  height: 48rem;
+}
+
+#testimonials .testimonial img {
+  width: 5rem;
+}
+
+#testimonials .testimonial p {
+  line-height: 1.3rem;
+}
+
+/* Contact info */
+#contact-info .box {
+  float: none;
+  width: 100%;
+}
+
+#contact-info .box:nth-child(2) {
+  background-color: #fff;
+  color: #333;
+}
